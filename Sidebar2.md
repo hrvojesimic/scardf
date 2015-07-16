@@ -1,0 +1,12 @@
+  * [Model](NewModel.md)
+  * [Nodebags](Nodebags.md)
+  * [Converters](Converters.md)
+  * [Predicate trees](PredicateTrees.md)
+  * [Graph augmentation](GraphAugmentation.md)
+  * **Old API**
+    * [Overview of API features](Overview.md)
+    * [Constructing a vocabulary](Vocabulary.md)
+    * [Building a graph](Building.md)
+      * [Example graph](ExampleData.md)
+    * [Traversing graphs](Traversal.md)
+    * [Querying](Querying.md)
